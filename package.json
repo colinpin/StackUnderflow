@@ -1,0 +1,21 @@
+{
+  "name": "pizza-pie",
+  "version": "1.0.0",
+  "description": "our awesome pizza pia app",
+  "main": "app.js",
+  "dependencies": {
+      "jquery": "*",
+      "angular": "1.5.*",
+      "bootstrap": "3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "pizza"
+  ],
+  "author": "Scott Gillatt",
+  "license": "ISC"
+}
